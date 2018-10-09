@@ -1,3 +1,20 @@
+# Scatter graph basic
+
+- python
+
+- panda
+
+
+
+### # raw data
+
+![rawData](rawData.png)
+
+
+
+### # code
+
+```python
 import matplotlib.pyplot as plt
 import pandas as pd
 
@@ -11,3 +28,15 @@ df.plot(kind='scatter',x='Planned_revenue',y='Revenue') # scatter plot
 
 plt.title("Relevant between Planned revenue and Actual")
 plt.show()
+```
+
+
+
+
+
+### #  graph
+
+![scattered_img](scattered_img.png)
+
+
+
