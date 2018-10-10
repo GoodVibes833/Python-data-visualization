@@ -1,21 +1,3 @@
-# Line graph basic
-
-- python
-
-- panda
-
-
-### # raw data
-
-![data_img](data_img.png)
-
-
-
-
-
-### #  code
-
-```python
 import matplotlib as mpl
 import numpy as np
 import pandas as pd
@@ -29,13 +11,3 @@ data.head()
 
 data.plot()
 plt.show()
-```
-
-
-
-### #  graph
-
-### ![line_gragh](line_gragh.png)
-
-
-

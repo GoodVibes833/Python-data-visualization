@@ -1,13 +1,14 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-df =  pd.read_csv('/Users/jin-tak.han/Code/Python_data_visualization/Scatter_graph_basic/data_sample_scatter.csv')
+df =  pd.read_csv('/Users/jin-tak.han/Code/Python_data_visualization/Pie_graph_basic/data_sample_pie_chart.csv')
 
-Planned_revenue = df["Planned_revenue"]
-Revenue = df["Revenue"]
+target = df["Retailer country"]
+revenue_data = df["Revenue"]
 
 
-df.plot(kind='scatter',x='Planned_revenue',y='Revenue') # scatter plot
-
-plt.title("Relevant between Planned revenue and Actual")
+#colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b"]
+          
+plt.pie(revenue_data, labels=target, autopct='%1.1f%%', shadow=True, startangle=140)
+plt.title("The amount of revenues of countries")
 plt.show()
