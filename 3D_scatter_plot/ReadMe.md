@@ -63,7 +63,9 @@ plt.show()
 
 
 
-### #  graph
+### #  graph	
 
-![3D_scatter_plot](3D_scatter_plot.png)
+
+
+![3D_scatter_plot](3D_scatter_plot.png)	
 
