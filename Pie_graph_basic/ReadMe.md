@@ -1,7 +1,17 @@
 # Pie graph basic
 
 - python
-- panda
+- pandas
+
+
+
+### #  plot
+
+
+
+![pie_image](pie_image.png)
+
+
 
 
 
@@ -34,14 +44,6 @@ plt.show()
 ```
 
 
-
-
-
-### #  graph
-
-
-
-![pie_image](pie_image.png)
 
 
 

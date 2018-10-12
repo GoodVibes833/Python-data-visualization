@@ -1,8 +1,17 @@
 # Line graph basic
 
 - python
+- pandas
 
-- panda
+
+
+### #  graph
+
+### ![line_gragh](line_gragh.png)
+
+
+
+
 
 
 ### # raw data
@@ -30,12 +39,6 @@ data.head()
 data.plot()
 plt.show()
 ```
-
-
-
-### #  graph
-
-### ![line_gragh](line_gragh.png)
 
 
 

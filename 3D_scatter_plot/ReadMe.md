@@ -1,8 +1,21 @@
 # 3D scatter graph
 
 - python
-
 - panda
+
+
+
+
+
+### #  plot	
+
+
+
+![3D_scatter_plot](3D_scatter_plot.png)	
+
+
+
+
 
 
 ### # raw data
@@ -61,11 +74,4 @@ ax1.set_zlabel('Gross_profit')
 plt.show()
 ```
 
-
-
-### #  graph	
-
-
-
-![3D_scatter_plot](3D_scatter_plot.png)	
 
