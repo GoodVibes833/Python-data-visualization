@@ -1,3 +1,21 @@
+# 3D surface graph
+
+- python
+- pandas
+
+
+
+### #  plot	
+
+![3d_surface_img](3d_surface_img.png)
+
+​	
+
+
+
+### #  code
+
+```python
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
@@ -32,3 +50,7 @@ ax.set_ylabel('Y')
 ax.set_zlabel('Z')
 
 plt.show()
+```
+
+
+
