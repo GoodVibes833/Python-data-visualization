@@ -7,9 +7,15 @@
 
 ### #  plot
 
+Video
+
 <video src="wireframe_video.mov"></video>
 
+here
+
 ### ![3D_wireframe](3D_wireframe.png)
+
+
 
 
 
