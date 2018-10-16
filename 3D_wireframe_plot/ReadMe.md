@@ -13,19 +13,19 @@
 
 <video controls>                                                                
     <source                                                                     
-        src="wireframe_video.mov"
+        src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plot/wireframe_video.mov"
         type="video/mp4">                                                       
 </video>
 
 
 <video width="320" height="240" controls>
-  <source src="wireframe_video.mov" type="video/mp4">
+  <source src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plot/wireframe_video.mov" type="video/mp4">
 </video>
 
 
 Video
 
-<video src="wireframe_video.mov"></video>
+<video src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plot/wireframe_video.mov"></video>
 
 here
 
