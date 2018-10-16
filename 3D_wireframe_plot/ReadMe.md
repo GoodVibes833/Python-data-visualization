@@ -11,6 +11,12 @@
 
 ### #  plot
 
+<video src="wireframe_video.mov" />
+
+```Markdown
+<video src="wireframe_video.mov" />
+```
+
 <video controls>                                                                
     <source                                                                     
         src="wireframe_video.mov"
