@@ -7,6 +7,11 @@
 
 ### #  plot
 
+<video width="320" height="240" controls>
+  <source src="wireframe_video.mov" type="video/mp4">
+</video>
+
+
 Video
 
 <video src="wireframe_video.mov"></video>
