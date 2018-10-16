@@ -11,10 +11,10 @@
 
 ### #  plot
 
-<video src="wireframe_video.mov" />
+<video src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plotwireframe_video.mov"" />
 
 ```Markdown
-<video src="wireframe_video.mov" />
+<video src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plotwireframe_video.mov" />
 ```
 
 <video controls>                                                                
