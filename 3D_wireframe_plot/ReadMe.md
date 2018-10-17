@@ -11,24 +11,6 @@
 
 ### #  plot
 
-<video src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plotwireframe_video.mov"" />
-
-```Markdown
-<video src="/Users/jin-tak.han/code/Python_data_visualization/3D_wireframe_plotwireframe_video.mov" />
-```
-
-<video controls>                                                                
-    <source                                                                     
-        src="wireframe_video.mov"
-        type="video/mp4">                                                       
-</video>
-
-
-
-<video src="wireframe_video.mov"></video>
-
-here
-
 ### ![3D_wireframe](3D_wireframe.png)
 
 
